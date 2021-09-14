@@ -1,0 +1,35 @@
+instalacion entorno
+
+https://medium.com/@ricardogarcia.dev/tu-entorno-de-desarrollo-laravel-en-macos-catalina-en-10-minutos-f747289c4758
+
+
+
+brew install node
+
+sequel ace base datos mysql
+
+PROBLEMAS CON instalacion
+NPM 
+
+rm -rf node_modules
+rm package-lock.json yarn.lock
+npm cache clear --force
+npm install
+****************************
+
+
+
+https://laracasts.com/series/build-a-voting-app/episodes/2
+
+composer require laravel/breeze --dev
+php artisan breeze:install
+
+npm install && npm run dev
+
+
+env .
+
+lc-voting
+
+capitulo uno
+
